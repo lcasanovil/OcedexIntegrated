@@ -1,6 +1,8 @@
 ## OcedexIntegrated
 
-    OcedexIntegrated is a React Native mobile application for offline fish species recognition using TensorFlow Lite. It supports optional Bluetooth synchronization with an ESP32-based dive computer, enabling users to associate photographic observations with timestamped dive log data.
+    OcedexIntegrated is a React Native mobile application for offline fish species recognition using
+    TensorFlow Lite. It supports optional Bluetooth synchronization with an ESP32-based dive computer,
+    enabling users to associate photographic observations with timestamped dive log data.
 
     ## Features
 
@@ -89,7 +91,8 @@
 
     ## Author
 
-    This application was developed by Laura Casanovas as part of a final engineering project focused on real-time species identification and system integration with embedded logging devices.
+    This application was developed by Laura Casanovas as part of a final engineering project
+    focused on real-time species identification and system integration with embedded logging devices.
 
     ## License
 
