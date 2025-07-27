@@ -16,16 +16,16 @@ enabling users to associate photographic observations with timestamped dive log 
 ## Screenshots
 
 **Splash and upload screens**  
-![Splash and upload screens](readme_prettier/splash_upload_screens.png)
+![Splash and upload screens](images_readme/splash_upload_screens.png)
 
 **Search screen**  
-![Search screen](readme_prettier/search_screen.png)
+![Search screen](images_readme/search_screen.png)
 
 **Map and profile screen**  
-![Map and profile screen](readme_prettier/map_profile_screen.png)
+![Map and profile screen](images_readme/map_profile_screen.png)
 
 **Catalog and species detail screen**  
-![Catalog details](readme_prettier/catalog_details_screens.png)
+![Catalog details](images_readme/catalog_details_screens.png)
 
 ---
 
@@ -34,19 +34,19 @@ enabling users to associate photographic observations with timestamped dive log 
 These are the five species the app can recognize using on-device image classification:
 
 **Chaetodon kleinii (Butterflyfish)**  
-![Butterflyfish](readme_prettier/buttefly_1.webp)
+![Butterflyfish](images_readme/buttefly_1.webp)
 
 **Pterois volitans (Lionfish)**  
-![Lionfish](readme_prettier/lionfish_2.jfif)
+![Lionfish](images_readme/lionfish_2.jfif)
 
 **Thalassoma lunare (Moon Wrasse)**  
-![Moon Wrasse](readme_prettier/moon_wrasse_1.jfif)
+![Moon Wrasse](images_readme/moon_wrasse_1.jfif)
 
 **Zanclus cornutus (Moorish Idol)**  
-![Moorish Idol](readme_prettier/moorish_idol_1.jfif)
+![Moorish Idol](images_readme/moorish_idol_1.jfif)
 
 **Pygoplites diacanthus (Regal Angelfish)**  
-![Regal Angelfish](readme_prettier/regal_angelfish_2.jfif)
+![Regal Angelfish](images_readme/regal_angelfish_2.jfif)
 
 ## Project Structure
 
